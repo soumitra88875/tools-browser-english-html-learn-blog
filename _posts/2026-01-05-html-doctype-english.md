@@ -1,9 +1,9 @@
 ---
-date: "2026-01-05 16:10:00 +0530"
 layout: post
+title: "<!DOCTYPE html\> -- Why This One Line Is Required for Every
+  Website to Work Properly (Browser, Design and the Future of the Web)"
+date: "2026-01-05 16:10:00 +0530"
 thumbnail: "https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/learn-html/image2.png"
-title: \<!DOCTYPE html\> -- Why This One Line Is Required for Every
-  Website to Work Properly (Browser, Design and the Future of the Web)
 ---
 
 # 📄 HTML Basic Structure (for understanding)
