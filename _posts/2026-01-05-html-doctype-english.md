@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<!DOCTYPE html> -- Why This One Line Is Required for Every
+title: "&lt;!DOCTYPE html&gt; -- Why This One Line Is Required for Every
   Website to Work Properly (Browser, Design and the Future of the Web)"
 date: "2026-01-05 16:10:00 +0530"
 thumbnail: "https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/learn-html/image2.png"
